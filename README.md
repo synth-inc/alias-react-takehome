@@ -5,7 +5,7 @@ You will be building a simplified version of our  app, the Alias (www.alias.inc)
 
 We've spun up an endpoint on our server to return a sample grid of media objects as a JSON blob. You can access the endpoint here: https://alias-server-prod-396ba8378bb2.herokuapp.com/public/mock/feed
 
-Your task is to create a React+Typescript application that uses the data from the sample endpoint to create the interface in the design file. We've created a sample project here, which you should use a starter template. Please use Typescript!
+Your task is to create a React+Typescript application that uses the data from the sample endpoint to create the interface in the design file. We've created a sample project here, which you should use a starter template. Please use Typescript and Vite!
 
 You can find a design and explanation of each element in this Figma file: 
 https://www.figma.com/file/LyGVmDqAcKyTEgeJYBfM4Y/Alias-Takehome-Challenge
